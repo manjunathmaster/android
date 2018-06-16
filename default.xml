@@ -494,6 +494,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
+  <project path="device/Symphony/P6" name="abyss10/android_device_Symphony_P6" revision="LOS-14.1" />
+  <project path="vendor/Symphony/P6" name="a7raj/android_vendor_Symphony_P6" revision="LOS-14.1" />
 
   <include name="snippets/cm.xml" />
 
